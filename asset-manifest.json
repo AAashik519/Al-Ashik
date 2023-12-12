@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Al-Ashik/static/css/main.01969843.css",
+    "main.css": "/Al-Ashik/static/css/main.b6e46200.css",
     "main.js": "/Al-Ashik/static/js/main.ead215a5.js",
     "static/js/787.11d3f2ba.chunk.js": "/Al-Ashik/static/js/787.11d3f2ba.chunk.js",
     "static/media/gym.jpg": "/Al-Ashik/static/media/gym.96affeab7a2fc084484e.jpg",
@@ -14,14 +14,14 @@
     "static/media/AAashik519.pdf": "/Al-Ashik/static/media/AAashik519.7812b3ee7026f1b56f39.pdf",
     "static/media/logo.png": "/Al-Ashik/static/media/logo.da8c57108926c1e731a2.png",
     "static/media/Archive.otf": "/Al-Ashik/static/media/Archive.9dcaa62ae3d19ece1c3f.otf",
-    "static/media/pre.svg": "/Al-Ashik/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/pre.svg": "/Al-Ashik/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Al-Ashik/index.html",
-    "main.01969843.css.map": "/Al-Ashik/static/css/main.01969843.css.map",
+    "main.b6e46200.css.map": "/Al-Ashik/static/css/main.b6e46200.css.map",
     "main.ead215a5.js.map": "/Al-Ashik/static/js/main.ead215a5.js.map",
     "787.11d3f2ba.chunk.js.map": "/Al-Ashik/static/js/787.11d3f2ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01969843.css",
+    "static/css/main.b6e46200.css",
     "static/js/main.ead215a5.js"
   ]
 }
