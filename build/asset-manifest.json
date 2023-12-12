@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.177e6fbb.css",
-    "main.js": "/static/js/main.f4d74d19.js",
-    "static/js/787.5b5ab461.chunk.js": "/static/js/787.5b5ab461.chunk.js",
-    "static/media/gym.jpg": "/static/media/gym.96affeab7a2fc084484e.jpg",
-    "static/media/home-main.png": "/static/media/home-main.abe905bc5a8efd7154d9.png",
-    "static/media/car.png": "/static/media/car.abaf8bbb82f9f659c741.png",
-    "static/media/map.png": "/static/media/map.8f1631a4782d3a96a28a.png",
-    "static/media/e-browser.png": "/static/media/e-browser.30cbd09a3d3e5e45f2eb.png",
-    "static/media/e-mobile.png": "/static/media/e-mobile.d6bf3766ffd061622361.png",
-    "static/media/avatar.png": "/static/media/avatar.42ba7d3ebab83a82d3ec.png",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/AAashik519.pdf": "/static/media/AAashik519.7812b3ee7026f1b56f39.pdf",
-    "static/media/logo.png": "/static/media/logo.da8c57108926c1e731a2.png",
-    "static/media/Archive.otf": "/static/media/Archive.9dcaa62ae3d19ece1c3f.otf",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.177e6fbb.css.map": "/static/css/main.177e6fbb.css.map",
-    "main.f4d74d19.js.map": "/static/js/main.f4d74d19.js.map",
-    "787.5b5ab461.chunk.js.map": "/static/js/787.5b5ab461.chunk.js.map"
+    "main.css": "/Al-Ashik/static/css/main.01969843.css",
+    "main.js": "/Al-Ashik/static/js/main.ead215a5.js",
+    "static/js/787.11d3f2ba.chunk.js": "/Al-Ashik/static/js/787.11d3f2ba.chunk.js",
+    "static/media/gym.jpg": "/Al-Ashik/static/media/gym.96affeab7a2fc084484e.jpg",
+    "static/media/home-main.png": "/Al-Ashik/static/media/home-main.abe905bc5a8efd7154d9.png",
+    "static/media/car.png": "/Al-Ashik/static/media/car.abaf8bbb82f9f659c741.png",
+    "static/media/map.png": "/Al-Ashik/static/media/map.8f1631a4782d3a96a28a.png",
+    "static/media/e-browser.png": "/Al-Ashik/static/media/e-browser.30cbd09a3d3e5e45f2eb.png",
+    "static/media/e-mobile.png": "/Al-Ashik/static/media/e-mobile.d6bf3766ffd061622361.png",
+    "static/media/avatar.png": "/Al-Ashik/static/media/avatar.42ba7d3ebab83a82d3ec.png",
+    "static/media/about.png": "/Al-Ashik/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/AAashik519.pdf": "/Al-Ashik/static/media/AAashik519.7812b3ee7026f1b56f39.pdf",
+    "static/media/logo.png": "/Al-Ashik/static/media/logo.da8c57108926c1e731a2.png",
+    "static/media/Archive.otf": "/Al-Ashik/static/media/Archive.9dcaa62ae3d19ece1c3f.otf",
+    "static/media/pre.svg": "/Al-Ashik/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Al-Ashik/index.html",
+    "main.01969843.css.map": "/Al-Ashik/static/css/main.01969843.css.map",
+    "main.ead215a5.js.map": "/Al-Ashik/static/js/main.ead215a5.js.map",
+    "787.11d3f2ba.chunk.js.map": "/Al-Ashik/static/js/787.11d3f2ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.177e6fbb.css",
-    "static/js/main.f4d74d19.js"
+    "static/css/main.01969843.css",
+    "static/js/main.ead215a5.js"
   ]
 }
